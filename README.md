@@ -370,6 +370,7 @@ src/
 ├── sweep.py         развертка по гиперпараметрам
 ├── cold_start.py    эксперимент с новичками
 └── api.py           FastAPI-сервис
+└── demo.ipynb       Визуализация в Jupyter Notebook
 
 tests/
 ├── test_metrics.py         метрики, сплиты, построение матрицы
